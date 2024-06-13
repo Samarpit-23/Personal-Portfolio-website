@@ -1,10 +1,3 @@
-# simple open in any browser.
+# open index.html in any browser.
+# Made with html ,css and javaScript.
 
-# screenshots
-![Alt text](image.png)
-
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
